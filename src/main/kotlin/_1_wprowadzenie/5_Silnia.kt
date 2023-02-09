@@ -13,5 +13,17 @@ fun main(args: Array<String>) {
     //!! -> NA STO PROCENT TO NIE JEST NULL
     //? -> TO MOŻE BYĆ NULL
 
-    val input = readLine()!!.toInt()eee
+    val input = readLine()!!.toInt()
+
+    // Silnia dla 0 oraz 1 zwraca wynik 1
+
+    if(input == 0 || input == 1) println("Wynik to: 1")
+    else{
+        var silnia = 1
+        // 1*2*3*4
+        for (i in 2.. input){
+            silnia*= i
+        }
+        println("Wynik to: $silnia")
+    }
 }

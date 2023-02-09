@@ -12,10 +12,10 @@ fun main(args: Array<String>) {
 
     Znak równości (=) to znak przypisania
 
-     wynik += liczba //wynik = wynik + liczba
-     wynik *= liczba //wynik = wynik * liczba
-     wynik -= liczba //wynik = wynik - liczba
-     wynik /= liczba //wynik = wynik / liczba
+     wynik +=      wynik = wynik + liczba
+     wynik *=      wynik = wynik * liczba
+     wynik -=      wynik = wynik - liczba
+     wynik /=      wynik = wynik / liczba
 
     var rezultat = 10%3 //10 = 3 * 3 + 1
 
