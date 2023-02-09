@@ -13,5 +13,5 @@ fun main(args: Array<String>) {
     //!! -> NA STO PROCENT TO NIE JEST NULL
     //? -> TO MOŻE BYĆ NULL
 
-    val input = readLine()!!.toInt()
+    val input = readLine()!!.toInt()eee
 }
