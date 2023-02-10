@@ -1,4 +1,4 @@
-package _1_wprowadzenie
+package _1_Podstawy_Kotlina
 
 fun dodaj(a: Int, b: Int): Int{
     //Wykonujemy logikę
