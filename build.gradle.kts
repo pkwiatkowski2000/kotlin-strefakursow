@@ -11,6 +11,7 @@ repositories {
 }
 
 dependencies {
+    implementation("org.apache.commons:commons-csv:1.8")
     testImplementation(kotlin("test"))
 }
 
