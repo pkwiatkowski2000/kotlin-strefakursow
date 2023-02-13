@@ -1,4 +1,4 @@
-package _2_Programowanie_obiektowe_w_Kotlinie
+package _2_programowanie_obiektowe
 
 import org.apache.commons.csv.CSVFormat
 import org.apache.commons.csv.CSVParser
