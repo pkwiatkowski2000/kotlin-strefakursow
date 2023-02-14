@@ -1,5 +1,6 @@
 package _2_programowanie_obiektowe
 
+/*
 //import com.google.gson.Gson
 import com.google.gson.Gson
 import models.api_response_models.ApiResponse
@@ -57,4 +58,4 @@ fun main() {
             }
         }
     }
-}
+*/
